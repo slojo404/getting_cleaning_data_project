@@ -5,7 +5,7 @@ Project for coursera course getting and cleaning data
 
 Script assumes it is being run in a directory where the 
 UCI HAR Dataset has been extracted into a subfolder named 
-UCI HAR Dataset.
+"UCI HAR Dataset".
 
 To run simply invoke
 
