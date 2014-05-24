@@ -16,7 +16,8 @@ or if on windows
 rscript.exe run_analysis.R
 
 The script will traverse the directories, load the needed
-data and export a summary "tidy" dataset called tidy.txt.
+data and export a summary "tidy" dataset called tidy.txt into
+the directory where the script is run.
 
 A file CodeBook.md is included which describes
 the variables, data and transformations performed
