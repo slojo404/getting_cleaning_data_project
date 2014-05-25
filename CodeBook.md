@@ -33,7 +33,7 @@ Original Data Quick Overview
 * ./UCI HAR Dataset/test/y_test.txt
  * Classification of activty
 * ./UCI HAR Dataset/train
- * 70% subset of data that can be used for training
+ * 70% subset of data that can be used for training file descriptions are the same as those given for the testing section
 * ./UCI HAR Dataset/train/Inertial Signals
 * ./UCI HAR Dataset/train/subject_train.txt
 * ./UCI HAR Dataset/train/X_train.txt
