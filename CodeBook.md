@@ -67,7 +67,7 @@ for each recorded activity with corresponding data.
 For the tidy summary we grouped those rows together by subject and activity and present the mean of all such
 rows for each feature.  
 So for instance for the first feature, tBodyAcc-mean()-X, in our tidy summary is is the mean of tBodyAcc-mean()-X values from all rows from the same subject and activity.
-
+Other than this difference the description of the features given in features_info.txt in the original data set still hold.
 #### List of Features
 * subject
 * activity
