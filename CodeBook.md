@@ -52,7 +52,7 @@ variables.
  2. We read in the files into separate data frames, being careful to only read in the features we want from the X data given the column locations we discovered earlier,
  3. Update the column of activity codes we obtained from y, to activity labels, using the mapping we aquired from reading in activity_labels.txt 
  4. We then merge the three separate data frames into one.
- 5. From the cohesive dataframes we have for test and train, merge them into one data frame with all data.
- 6. Group data by subject and activity summarizing the data as the mean of each feature.
- 7. Sort dataframe by subject activity.
- 8. Export dataframe to tidy.txt
+3. From the cohesive dataframes we have for test and train, merge them into one data frame with all data.
+4. Group data by subject and activity summarizing the data as the mean of each feature.
+5. Sort dataframe by subject activity.
+6. Export dataframe to tidy.txt
