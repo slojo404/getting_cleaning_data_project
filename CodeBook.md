@@ -1,17 +1,22 @@
+# CodeBook
+
+### Source of Data
 The data, per course instruction, was pulled from here
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 but it appears the original source of the data is from here
 http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
 
+### Additional Background on Data and Research
 Further, additional background about the data can be found here
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
+### CodeBook Summary
 What follows is information about how the original data was transformed into the 
 resulting tidy.txt dataset as well as a description of the data and associated 
 variables.
 
-Original Data Quick Overview
+### Original Data Quick Overview
 
 * ./UCI HAR Dataset
 * ./UCI HAR Dataset/activity_labels.txt  
@@ -39,3 +44,4 @@ Original Data Quick Overview
 * ./UCI HAR Dataset/train/X_train.txt
 * ./UCI HAR Dataset/train/y_train.txt
 
+### Transformation Overview
