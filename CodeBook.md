@@ -7,6 +7,8 @@ http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Datas
 Further, additional background about the data can be found here
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-What follows is information describing the variables and data in the resulting tidy.txt dataset
-as well as some details about how the original data was transformed.
+What follows is information about how the original data was transformed into the 
+resulting tidy.txt dataset as well as a description of the data and associated 
+variables.
+
 
